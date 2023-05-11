@@ -1,4 +1,4 @@
-Home-tasks
+# Home-tasks
 
 Home-tasks is a user-friendly application designed for Android and iOS platforms. The primary objective of this project is to provide household members with a convenient way to share and manage weekly home tasks.
 
